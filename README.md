@@ -19,3 +19,10 @@ making each clothes fresh without any damages. Despite their advantages in compa
 size, in particular, is a common issue experienced by many people. Therefore, in
 this research, we proposed a model that estimates human body measurements from
 human real-time pictures using open pose models and caffee models.
+
+<img width="955" alt="login" src="https://user-images.githubusercontent.com/53225976/128696453-be05bfe9-fc10-4e52-86ed-1cb811c4d408.png">
+<img width="749" alt="view" src="https://user-images.githubusercontent.com/53225976/128696541-bebf3dee-ce8d-4ad1-82f4-08b8bec4e4ab.png">
+<img width="745" alt="addingdetails" src="https://user-images.githubusercontent.com/53225976/128696557-51a24e28-08de-453e-b8c3-e2d7b67c783e.png">
+<img width="751" alt="details" src="https://user-images.githubusercontent.com/53225976/128696565-cabea452-359a-4daa-ba16-23aeb4808447.png">
+<img width="750" alt="capture" src="https://user-images.githubusercontent.com/53225976/128696572-31453fec-9cd4-44bf-aae5-8318afcbb879.png">
+
